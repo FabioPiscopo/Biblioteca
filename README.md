@@ -15,4 +15,4 @@ Determinare le chiavi
 Determinare i tipi di tabelle
  
 
-Riportare poi le tabelle in Excel e popolare con dei dati dummy.
+- Riportare poi le tabelle in Excel e popolare con dei dati dummy.
