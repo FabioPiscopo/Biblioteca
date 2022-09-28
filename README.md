@@ -1,7 +1,7 @@
 # Biblioteca
 Homework 2
 
-Creare il data model per una biblioteca
+Creare il data model per una biblioteca.
 
 Identificare le entità
 Determinare i campi per ogni entità
